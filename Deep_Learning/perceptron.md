@@ -5,4 +5,6 @@
 
 ### Implementation of Perceptron
 
-[source code](./sources/perceptron_func.py)
+[perceptron func source code](./sources/perceptron_func.py)
+
+[step source code](./sources/step_func.py)
